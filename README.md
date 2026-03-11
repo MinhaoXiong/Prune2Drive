@@ -38,7 +38,8 @@
 
 </div>
 
-
+## 🔥 News
+- **[2026.02]** 🎉 Prune2Drive has been accepted by **CVPR 2026**!
 
 ## 👀 Overview
 
